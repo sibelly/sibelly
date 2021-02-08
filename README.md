@@ -7,8 +7,5 @@ I'm Sibelly | Software Engineer :alien:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/Sibelly_Sanches)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:sibellycavalcante@gmail.com)
 
-- 🔭 I’m currently working on [PersonalBov](https://personalbov.com/) project
-- 🌱 I’m currently learning at [Rocketseat](https://rocketseat.com.br/gostack)
-- 🤔 I’m looking for help with microservices
 ---
 Together we stand :earth_americas: divided we fall
