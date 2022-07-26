@@ -11,7 +11,7 @@ I'm Sibelly | Software Engineer :alien:
 
 ---
 
-![Sibelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=sibelly&show_icons=true&theme=radical)
+[![Sibelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=sibelly&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sibelly&layout=compact&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
