@@ -1,4 +1,4 @@
-### Hey you!
+<h2 align="center">Hey you!</h2>
 
 <p align="center">I'm Sibelly | Software Engineer :alien:</p>
 
