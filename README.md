@@ -24,4 +24,4 @@
 
 
 ---
-Together we stand :earth_americas: divided we fall
+<p align="center"> Together we stand :earth_americas: divided we fall </p>
