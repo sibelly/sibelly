@@ -11,12 +11,11 @@ I'm Sibelly | Software Engineer :alien:
 
 ---
 
-[![Sibelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=sibelly&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=sibelly&show_icons=true&theme=radical" alt="github stats" /></a>
 
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibelly&layout=compact&langs_count=10&theme=radical" alt="top langs" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sibelly&layout=compact&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![sibelly's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sibelly&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@sibelly&theme=radical" alt="sibelly's wakatime stats" /></a>
 
 ---
 
