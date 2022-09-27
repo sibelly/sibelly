@@ -11,9 +11,9 @@
 </p>
 
 ---
-<p align="center"><a href="https://profile.codersrank.io/user/sibelly" target="_blank"><img
+<img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=sibelly&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/></a>
+/>
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibelly&layout=compact&langs_count=10&theme=radical" alt="top langs" /></a>
 
