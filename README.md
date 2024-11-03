@@ -1,6 +1,6 @@
 <h2 align="center">Hey you!</h2>
 
-<p align="">I'm Sibelly | Devops Engineer | Software Engineer :alien:</p>
+<p align="">I'm Sibelly | Platform Engineer :alien:</p>
 
 <p align="">
 <a href="https://github.com/sibelly"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb" alt="Github Badge" /></a>
